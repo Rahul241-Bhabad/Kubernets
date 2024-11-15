@@ -1,1 +1,5 @@
 # Kubernets
+## DevOps
+````
+sudo -i
+````
